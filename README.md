@@ -22,7 +22,6 @@
 <a href="https://linkedin.com/in/jorgemeyrelles" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain.svg?size=50&color=8a2be2" alt="https://linkedin.com/in/jorgemeyrelles" /></a>
 <a href="https://fb.com/fb.com/jorge.meyrelles" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-plain.svg?size=50&color=8a2be2" alt="fb.com/jorge.meyrelles" /></a>
 </p>
-
 <p align="center"> <a href="https://www.xing.com/profile/Jorge_Meyrelles/cv" target="blank"><img src="https://icongr.am/fontawesome/xing-square.svg?size=50&color=58ae56" alt="xing_jorgemeyrelles" /></a> </p>
 
 ---------
