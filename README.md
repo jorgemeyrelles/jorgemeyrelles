@@ -9,7 +9,7 @@
 >
 > 🌱 I’m currently learning **React**
 >
-> 👨‍💻 All of my projects are available at [My portfolio](http://www.jorgemeyrelles.github.io)
+> 👨‍💻 All of my projects are available at [My portfolio](https://jorgemeyrelles.github.io/)
 >
 > 💬 Ask me about **HTML, CSS and JS**
 >
