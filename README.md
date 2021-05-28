@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teudm&label=Profile%20views&color=blueviolet&style=for-the-badge&label=VISITOR+NUMBER:" alt="jorgemeyrelles" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teudm&row=2&column=2&theme=dracula&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="jorgemeyrelles" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgemeyrelles&row=2&column=2&theme=dracula&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="jorgemeyrelles" /></a> </p>
 
 <br><br>
 >
@@ -23,7 +23,7 @@
 <a href="https://fb.com/fb.com/jorge.meyrelles" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-plain.svg?size=50&color=8a2be2" alt="fb.com/jorge.meyrelles" /></a>
 </p>
 
-<p align="center"> <a href="https://www.xing.com/profile/Jorge_Meyrelles/cv" target="blank"><img src="https://image.flaticon.com/icons/png/128/408/408704.png?size=50px&color=8a2be2" alt="xing_jorgemeyrelles" /></a> </p>
+<p align="center"> <a href="https://www.xing.com/profile/Jorge_Meyrelles/cv" target="blank"><img src="https://icongr.am/fontawesome/xing-square.svg?size=50&color=58ae56" alt="xing_jorgemeyrelles" /></a> </p>
 
 ---------
 
@@ -38,9 +38,9 @@
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=teudm&show_icons=true&theme=dracula&locale=en" alt="teudm" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgemeyrelles&show_icons=true&theme=dracula&locale=en" alt="jorgemeyrelles" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teudm&theme=dracula" alt="teudm" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgemeyrelles&theme=dracula" alt="jorgemeyrelles" /></p>
 
 
 <!---
