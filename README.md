@@ -15,7 +15,7 @@
 >
 > 📫 How to reach me **jotaengpuc@gmail.com**
 >
-> ⚡ Fun fact **I'm a Vasco fan and jogger**
+> ⚡ Fun fact **I'm a Vasco fan and weekend jogger**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
