@@ -30,6 +30,18 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/devicon/javascript-plain.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=50&color=8a2be2" />
+</p>
+
+<br><br>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=teudm&show_icons=true&theme=dracula&locale=en" alt="teudm" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teudm&theme=dracula" alt="teudm" /></p>
+
 
 <!---
 jorgemeyrelles/jorgemeyrelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
