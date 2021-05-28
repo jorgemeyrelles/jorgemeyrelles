@@ -15,7 +15,7 @@
 >
 > 📫 How to reach me **jotaengpuc@gmail.com**
 >
-> ⚡ Fun fact **I'm a cat lover/rescuer**
+> ⚡ Fun fact **I'm a Vasco fan and jogger**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
