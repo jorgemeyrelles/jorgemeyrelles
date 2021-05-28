@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Meyrelles Jr</h1>
 <h3 align="center">An (almost) developer from Brazil | Tryber</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=teudm&label=Profile%20views&color=blueviolet&style=for-the-badge&label=VISITOR+NUMBER:" alt="jorgemeyrelles" /></p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=jorgemeyrelles&label=Profile%20views&color=blueviolet&style=for-the-badge&label=VISITOR+NUMBER:" alt="jorgemeyrelles" />   <a href="https://github.com/jorgemeyrelles"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChungZH&longCache=true"/></a> </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgemeyrelles&row=2&column=2&theme=dracula&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="jorgemeyrelles" /></a> </p>
 
