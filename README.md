@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemeyrelles&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
 </div>
-  
+
 <br><br>
 >
 > 🌱 I’m currently learning ![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT)&nbsp;
