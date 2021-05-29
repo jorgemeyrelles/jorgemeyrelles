@@ -39,6 +39,8 @@
   <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=50&color=8a2be2" />
 </p>
 
