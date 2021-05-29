@@ -13,7 +13,7 @@
   
 <br><br>
 >
-> 🌱 I’m currently learning **React**
+> 🌱 I’m currently learning ![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT)&nbsp;
 >
 > 👨‍💻 All of my projects are available at [My portfolio](https://jorgemeyrelles.github.io/)
 >
