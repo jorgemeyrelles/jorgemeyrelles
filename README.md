@@ -13,7 +13,7 @@
 
 <br><br>
 >
-> 🌱 I’m currently learning ![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT)&nbsp;
+> 🌱 I’m currently learning ![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT)&nbsp;, ![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp; and ![REDUX](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 >
 > 👨‍💻 All of my projects are available at [My portfolio](https://jorgemeyrelles.github.io/)
 >
