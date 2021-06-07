@@ -33,7 +33,7 @@
 
 ---------
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages, Frameworks and Tools:</h3>
 <p align="center"> 
   <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=50&color=8a2be2" />
@@ -42,6 +42,11 @@
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/simple/redux.svg?size=50&color=8a2be2&colored=true" />
+  <img src="https://icongr.am/simple/reactrouter.svg?size=50&color=8a2be&colored=true" />
+  
+  
+  
 </p>
 
 <br><br>
