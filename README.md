@@ -44,7 +44,7 @@
   <img src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/simple/redux.svg?size=50&color=8a2be2&colored=true" />
   <img src="https://icongr.am/simple/reactrouter.svg?size=50&color=8a2be&colored=true" />
-  
+  <img src="https://icongr.am/simple/jest.svg?size=50&color=8a2be&colored=true" />
   
   
 </p>
