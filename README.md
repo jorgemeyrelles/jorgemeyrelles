@@ -39,14 +39,17 @@
   <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=8a2be2" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=8a2be2" />
-  <img src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/simple/redux.svg?size=50&color=8a2be2&colored=true" />
-  <img src="https://icongr.am/simple/reactrouter.svg?size=50&color=8a2be&colored=true" />
-  <img src="https://icongr.am/simple/jest.svg?size=50&color=8a2be&colored=true" />
-  
-  
+  <img src="https://icongr.am/simple/reactrouter.svg?size=50&color=8a2be&colored=true" />  
+</p>
+<p align="center">
+  <img src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/simple/jest.svg?size=50&color=5eb07e&colored=false" />
+  <img src="https://icongr.am/simple/mysql.svg?size=50&color=368c39&colored=false" />
+  <img src="https://icongr.am/simple/npm.svg?size=50&color=368c39&colored=false" />
+  <img src="https://icongr.am/simple/mongodb.svg?size=50&color=368c39&colored=false" />
 </p>
 
 <br><br>
