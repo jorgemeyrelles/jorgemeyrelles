@@ -4,7 +4,7 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jorgemeyrelles&label=Profile%20views&color=blue&style=for-the-badge&label=Visitor+Number:" alt="jorgemeyrelles" />      <a href="https://github.com/jorgemeyrelles"><img alt="GitHub" src="https://img.shields.io/github/followers/jorgemeyrelles?logo=github&label=GitHub+Followers&labelColor=grey&color=blue&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChungZH&longCache=true"/></a> </div>
 <br>
 <p align="center" vertical-align="center"> 
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=jorgemeyrelles&theme=onedark"></a>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=jorgemeyrelles&theme=onedark&no-frame=true"></a>
 </p>
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemeyrelles&layout=compact">
