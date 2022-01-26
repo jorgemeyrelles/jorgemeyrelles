@@ -12,7 +12,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemeyrelles&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 >
-> 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-Liked-white?logo=python&style=social)
+> 🌱 I’m currently learning ![Python](https://img.shields.io/badge/Python-Liked-white?logo=Python&style=social)
 >
 > 👨‍💻 All of my projects are available at [My portfolio](https://jorgemeyrelles.github.io/)
 >
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/-npm-05122A?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python" />
 </p>
 
 <br><br>
