@@ -12,7 +12,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemeyrelles&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 >
-> 🌱 I’m currently learning ![MongoDB](https://img.shields.io/badge/mongodb-Liked-white?logo=mongodb&style=social)
+> 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-Liked-white?logo=python&style=social)
 >
 > 👨‍💻 All of my projects are available at [My portfolio](https://jorgemeyrelles.github.io/)
 >
