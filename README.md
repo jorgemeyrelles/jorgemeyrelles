@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Meyrelles Jr</h1>
-<h3 align="center">An developer from Brazil | Tryber</h3>
+<h3 align="center">A passionate Fullstack developer from Brazil | Tryber</h3>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jorgemeyrelles&label=Profile%20views&color=blue&style=for-the-badge&label=Visitor+Number:" alt="jorgemeyrelles" />      <a href="https://github.com/jorgemeyrelles"><img alt="GitHub" src="https://img.shields.io/github/followers/jorgemeyrelles?logo=github&label=GitHub+Followers&labelColor=grey&color=blue&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChungZH&longCache=true"/></a> </div>
 <br>
@@ -18,13 +18,13 @@
 >
 > 📫 How to reach me **jotaengpuc@gmail.com**
 >
-> ⚡ Fun fact **I'm a Vasco fan and weekend jogger**
+> ⚡ Fun fact **I'm a Vasco fan and Mountain trekking enthusiast**
 
 <h3 align="center">Connect with me by:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/jorgemeyrelles" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain.svg?size=50&color=0e76a8" alt="https://linkedin.com/in/jorgemeyrelles" /></a>
-<a href="https://www.facebook.com/jorge.meyrelles/" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-plain.svg?size=50&color=8a2be2" alt="https://fb.com/jorge.meyrelles" /></a>
-<a href="https://www.xing.com/profile/Jorge_Meyrelles/cv" target="blank"><img align="center" src="https://icongr.am/fontawesome/xing-square.svg?size=50&color=58ae56" alt="xing_jorgemeyrelles" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorgemeyrelles/" height="30" width="40" /></a></a>
+<a href="https://fb.com/https://www.facebook.com/jorge.meyrelles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jorge.meyrelles" height="30" width="40" /></a>
+<a href="https://www.xing.com/profile/Jorge_Meyrelles/cv" target="blank"><img align="center" src="https://icongr.am/fontawesome/xing-square.svg?size=35&color=58ae56" alt="xing_jorgemeyrelles" /></a>
 </p>
 
 ---------
@@ -46,11 +46,18 @@
   <img src="https://img.shields.io/badge/-npm-05122A?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python" />
+  <img src="https://img.shields.io/badge/-Heroku-05122A?style=for-the-badge&logo=Heroku" />
+  <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express" />
+  <img src="https://img.shields.io/badge/-Mocha-05122A?style=for-the-badge&logo=Mocha" />
+  <img src="https://img.shields.io/badge/-Char.js-05122A?style=for-the-badge&logo=Chart.js" />
+  <img src="https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=Cypress" />
+  <img src="https://img.shields.io/badge/-Bulma-05122A?style=for-the-badge&logo=Bulma" />
 </p>
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgemeyrelles&show_icons=true&theme=dracula&locale=en" alt="jorgemeyrelles" /></p>
+<span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgemeyrelles&show_icons=true&theme=dracula&locale=en" alt="jorgemeyrelles" /></span>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgemeyrelles&theme=dracula" alt="jorgemeyrelles" /></span>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgemeyrelles&theme=dracula" alt="jorgemeyrelles" /></p> -->
 
 
