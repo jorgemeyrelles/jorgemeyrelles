@@ -56,8 +56,8 @@
 
 <br><br>
 
-<span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgemeyrelles&show_icons=true&theme=dracula&locale=en" alt="jorgemeyrelles" /></span>
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgemeyrelles&theme=dracula" alt="jorgemeyrelles" /></span>
+<span align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgemeyrelles&show_icons=true&theme=dracula&locale=en" alt="jorgemeyrelles" /></span>
+<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgemeyrelles&theme=dracula" alt="jorgemeyrelles" /></span>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgemeyrelles&theme=dracula" alt="jorgemeyrelles" /></p> -->
 
 
