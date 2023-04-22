@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3" />
   <img src="https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-reactquery-05122A?style=for-the-badge&logo=reactquery" />
   <img src="https://img.shields.io/badge/-VSCode-05122A?style=for-the-badge&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux" />
   <img src="https://img.shields.io/badge/-Router-05122A?style=for-the-badge&logo=reactrouter" />
@@ -48,15 +49,18 @@
   <img src="https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest" />
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/-planetscale-05122A?style=for-the-badge&logo=planetscale" />
   <img src="https://img.shields.io/badge/-npm-05122A?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python" />
   <img src="https://img.shields.io/badge/-Heroku-05122A?style=for-the-badge&logo=Heroku" />
+  <img src="https://img.shields.io/badge/-Vercel-05122A?style=for-the-badge&logo=Vercel" />
   <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=Express" />
   <img src="https://img.shields.io/badge/-Mocha-05122A?style=for-the-badge&logo=Mocha" />
   <img src="https://img.shields.io/badge/-Char.js-05122A?style=for-the-badge&logo=Chart.js" />
   <img src="https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=Cypress" />
   <img src="https://img.shields.io/badge/-Bulma-05122A?style=for-the-badge&logo=Bulma" />
+  <img src="https://img.shields.io/badge/-powerbi-05122A?style=for-the-badge&logo=powerbi" />
 </p>
 
 <br><br>
