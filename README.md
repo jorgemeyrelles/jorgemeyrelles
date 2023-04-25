@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/-Char.js-05122A?style=for-the-badge&logo=Chart.js" />
   <img src="https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=Cypress" />
   <img src="https://img.shields.io/badge/-Bulma-05122A?style=for-the-badge&logo=Bulma" />
-  <img src="https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=MUI" />
+  <img src="https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=MUI" /> 
   <img src="https://img.shields.io/badge/-powerbi-05122A?style=for-the-badge&logo=powerbi" />
 </p>
 
