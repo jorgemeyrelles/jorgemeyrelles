@@ -17,7 +17,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemeyrelles&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 >
-> 🌱 I’m currently learning ![Java](https://img.shields.io/badge/Java-Liked-white?logo=Java&style=social) and ![Angular](https://img.shields.io/badge/Angular-Liked-white?logo=angular&style=social)
+> 🌱 I’m currently learning ![Java](https://img.shields.io/badge/java-Liked-white?logo=java&style=social) and ![Angular](https://img.shields.io/badge/Angular-Liked-white?logo=angular&style=social)
 >
 > 👨‍💻 All of my projects are available at [My portfolio](https://jorgemeyrelles.github.io/)
 >
